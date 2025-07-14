@@ -1,4 +1,4 @@
-name: Terraform Log Analytics
+name: Terraform Recovery Service Vault
 
 on:
   push:
